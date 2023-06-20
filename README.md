@@ -2,6 +2,8 @@
 
 ![this product is ai free](https://this-product-is-ai-free.github.io/badge.svg)
 
+Published under [MIT licence](https://github.com/this-product-is-ai-free/this-product-is-ai-free.github.io/blob/main/LICENSE)
+
 ## Markdown
 
 ```markdown
